@@ -1,0 +1,11 @@
+https://newsapi.org/docs/endpoints
+
+TOP HEADLINES
+Query:
+https://newsapi.org/v2/top-headlines?q=trump&apiKey=ac927df3771145989fa1c9aca8f0cee8
+
+Source:
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=ac927df3771145989fa1c9aca8f0cee8
+
+Country:
+https://newsapi.org/v2/top-headlines?country=us&apiKey=ac927df3771145989fa1c9aca8f0cee8
